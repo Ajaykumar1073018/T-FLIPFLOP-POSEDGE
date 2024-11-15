@@ -116,3 +116,5 @@ From the above characteristic table, we can directly write the next state equati
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
+Thus the program to implement a T flipflop using verilog and validating their functionality using their functional tables.
